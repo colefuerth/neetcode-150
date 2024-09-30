@@ -1,13 +1,17 @@
 # LC-GRIND
 
-our solutions to the Neetcode 150
+Our solutions to the Neetcode 150
+
+## How-to
+
+Fork this repo, create yourself a folder and each day create a PR and I will merge in your changes; peer reviews are allowed as well by whoever you want to look at your code.
 
 ## Problems
 
 1. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 2. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 3. [Two Sum](https://leetcode.com/problems/two-sum/)
-4. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+<!-- 4. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 5. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 6. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 7. [Binary Search](https://leetcode.com/problems/binary-search/)
@@ -63,4 +67,4 @@ our solutions to the Neetcode 150
 57. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)
 58. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)
 59. [Copy Linked List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)
-60. [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)
+60. [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) -->
